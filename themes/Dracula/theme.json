@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#282a36",
+        "Base": "#282a36",
+        "BrightText": "#ff5555",
+        "Button": "#44475a",
+        "ButtonText": "#f8f8f2",
+        "Highlight": "#6272a4",
+        "HighlightedText": "#44475a",
+        "Link": "#8be9fd",
+        "Text": "#f8f8f2",
+        "ToolTipBase": "#f8f8f2",
+        "ToolTipText": "#f8f8f2",
+        "Window": "#44475a",
+        "WindowText": "#f8f8f2",
+        "fadeAmount": 0.5,
+        "fadeColor": "#44475a"
+    },
+    "name": "Dracula",
+    "widgets": "Fusion"
+}
