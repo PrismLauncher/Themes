@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#303446",
+        "Base": "#292c3c",
+        "BrightText": "#b5bfe2",
+        "Button": "#414559",
+        "ButtonText": "#c6d0f5",
+        "Highlight": "#babbf1",
+        "HighlightedText": "#303446",
+        "Link": "#babbf1",
+        "Text": "#c6d0f5",
+        "ToolTipBase": "#dee5fc",
+        "ToolTipText": "#dee5fc",
+        "Window": "#303446",
+        "WindowText": "#b5bfe2",
+        "fadeAmount": 0.5,
+        "fadeColor": "#737994"
+    },
+    "name": "Catppuccin Frappé",
+    "widgets": "Fusion"
+}

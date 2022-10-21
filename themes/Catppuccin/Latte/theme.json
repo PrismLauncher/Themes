@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#eff1f5",
+        "Base": "#e6e9ef",
+        "BrightText": "#5c5f77",
+        "Button": "#ccd0da",
+        "ButtonText": "#4c4f69",
+        "Highlight": "#b4befe",
+        "HighlightedText": "#1e1e2e",
+        "Link": "#7287fd",
+        "Text": "#4c4f69",
+        "ToolTipBase": "#dee5fc",
+        "ToolTipText": "#dee5fc",
+        "Window": "#ccd0da",
+        "WindowText": "#5c5f77",
+        "fadeAmount": 0.5,
+        "fadeColor": "#9ca0b0"
+    },
+    "name": "Catppuccin Latte",
+    "widgets": "Fusion"
+}
