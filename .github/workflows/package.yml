@@ -1,0 +1,44 @@
+# SPDX-FileCopyrightText: 2022 Sefa Eyeoglu <contact@scrumplex.net>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+name: Package themes
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Prepare
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y parallel zip
+
+      - name: Package
+        working-directory: themes
+        run: |
+          parallel "cd {} && zip -r ../{}.zip custom/" ::: *
+          echo "DISPLAY_NAME=$(date "+%Y-%m-%d %H:%M:%S")" >> "$GITHUB_ENV"
+          echo "TAG_NAME=$(date "+%Y-%m-%d_%s")" >> "$GITHUB_ENV"
+
+      - name: Create release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: ${{ env.DISPLAY_NAME }}
+          tag_name: ${{ env.TAG_NAME }}
+          draft: false
+          prerelease: false
+          files: |
+            themes/*.zip
+
