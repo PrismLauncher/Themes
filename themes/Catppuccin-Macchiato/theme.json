@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#24273a",
+        "Base": "#1e2030",
+        "BrightText": "#b8c0e0", 
+        "Button": "#363a4f", 
+        "ButtonText": "#cad3f5", 
+        "Highlight": "#b7bdf8",
+        "HighlightedText": "#24273a", 
+        "Link": "#b7bdf8",
+        "Text": "#cad3f5",
+        "ToolTipBase": "#dee5fc",
+        "ToolTipText": "#dee5fc",
+        "Window": "#24273a",
+        "WindowText": "#b8c0e0",
+        "fadeAmount": 0.5,
+        "fadeColor": "#6e738d"
+    },
+    "name": "Catppuccin Macchiato",
+    "widgets": "Fusion"
+}
