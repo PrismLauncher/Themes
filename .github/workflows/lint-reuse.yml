@@ -1,21 +1,15 @@
+# SPDX-FileCopyrightText: 2022 Free Software Foundation Europe e.V. <https://fsfe.org>
+#
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2022 DioEgizio
 
-name: Lint REUSE
+name: REUSE Compliance Check
 
 on: [push, pull_request]
 
 jobs:
-  lint-reuse:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Install REUSE linter
-        run: |
-          python3 -m pip install reuse
-
-      - name: Lint REUSE
-        working-directory: themes
-        run: |
-          python3 -m reuse lint
+    - uses: actions/checkout@v3
+    - name: REUSE Compliance Check
+      uses: fsfe/reuse-action@v1
