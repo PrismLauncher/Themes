@@ -1,0 +1,21 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022 DioEgizio
+
+name: Lint REUSE
+
+on: [push, pull_request]
+
+jobs:
+  lint-reuse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install REUSE linter
+        run: |
+          python3 -m pip install reuse
+
+      - name: Lint REUSE
+        working-directory: themes
+        run: |
+          python3 -m reuse lint
