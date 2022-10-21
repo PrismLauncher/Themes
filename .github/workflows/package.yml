@@ -25,7 +25,7 @@ jobs:
       - name: Package
         working-directory: themes
         run: |
-          parallel "cd {} && zip -r ../{}.zip custom/" ::: *
+          parallel "zip -r {}.zip {}/" ::: *
           echo "DISPLAY_NAME=$(date "+%Y-%m-%d %H:%M:%S")" >> "$GITHUB_ENV"
           echo "TAG_NAME=$(date "+%Y-%m-%d_%s")" >> "$GITHUB_ENV"
 
