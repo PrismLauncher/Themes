@@ -8,6 +8,9 @@ Catppuccin-Macchiato
 ---
 [Catppuccin-Macchiato](https://github.com/catppuccin/catppuccin) theme for Prism Launcher.
 
+## Preview
+![Catppuccin-Macchiato Preview](preview-catppuccin-macchiato.png)
+
 ## License
 ```
 MIT License
