@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2022 hydino2085143 <priya.aravamuthan@protonmail.com>
+SPDX-FileCopyrightText: 2022 Derpitron <priya.aravamuthan@protonmail.com>
 
 SPDX-License-Identifier: CC0-1.0
 
@@ -17,7 +17,7 @@ Nord
 GPL-3.0-or-later License
 
 Copyright (c) 2016 Nord Theme
-Copyright (c) 2022 hydino2085143
+Copyright (c) 2022 Derpitron
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
