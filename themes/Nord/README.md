@@ -1,7 +1,8 @@
 <!--
 SPDX-FileCopyrightText: 2022 hydino2085143 <priya.aravamuthan@protonmail.com>
 
-SPDX-License-Identifier: CC0-1.
+SPDX-License-Identifier: CC0-1.0
+
 -->
 
 Nord
