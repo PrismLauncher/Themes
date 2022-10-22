@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2022 hydino2085143
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
+QToolTip { 
+	color: #D8DEE9; 
+	background-color: #3B4252;
+	border: 1px solid #3B4252
+}

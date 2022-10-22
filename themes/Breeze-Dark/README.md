@@ -8,6 +8,9 @@ Breeze-Dark
 ---
 Default dark theme prior to Prism Launcher 5.0
 
+## Preview
+![Breeze-Dark Preview](preview-breeze-dark.png)
+
 ## License
 ```
 Copyright 2013-2021 MultiMC Contributors

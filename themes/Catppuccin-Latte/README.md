@@ -8,6 +8,9 @@ Catppuccin-Latte
 ---
 [Catppuccin-Latte](https://github.com/catppuccin/catppuccin) theme for Prism Launcher.
 
+## Preview
+![Catppuccin-Latte Preview](preview-catppuccin-latte.png)
+
 ## License
 ```
 MIT License

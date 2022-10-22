@@ -8,6 +8,9 @@ Dracula
 ---
 [Dracula](https://github.com/dracula/dracula-theme) theme for Prism Launcher.
 
+## Preview
+![Dracula Preview](preview-dracula.png)
+
 ## License
 ```
 MIT License
