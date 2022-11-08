@@ -9,7 +9,7 @@ Breeze-Dark
 Default dark theme prior to Prism Launcher 5.0
 
 ## Preview
-![Breeze-Dark Preview](preview-breeze-dark.png)
+![Breeze-Dark Preview](preview.png)
 
 ## License
 ```

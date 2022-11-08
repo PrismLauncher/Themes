@@ -9,7 +9,7 @@ Catppuccin-Mocha
 [Catppuccin-Mocha](https://github.com/catppuccin/catppuccin) theme for Prism Launcher.
 
 ## Preview
-![Catppuccin-Mocha Preview](preview-catppuccin-mocha.png)
+![Catppuccin-Mocha Preview](preview.png)
 
 ## License
 ```

@@ -9,7 +9,7 @@ Catppuccin-Frappe
 [Catppuccin-Frappe](https://github.com/catppuccin/catppuccin) theme for Prism Launcher.
 
 ## Preview
-![Catppuccin-Frappe Preview](preview-catppuccin-frappe.png)
+![Catppuccin-Frappe Preview](preview.png)
 
 ## License
 ```

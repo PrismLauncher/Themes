@@ -10,7 +10,7 @@ Nord
 [Nord](https://nordtheme.com) theme for Prism Launcher.
 
 ## Preview
-![Nord Preview](preview-nord.png)
+![Nord Preview](preview.png)
 
 ## License
 ```
