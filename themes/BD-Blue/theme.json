@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#121318",
+        "Base": "#040405",
+        "BrightText": "#ff0000",
+        "Button": "#121318",
+        "ButtonText": "#ffffff",
+        "Highlight": "#3E82E5",
+        "HighlightedText": "#ffffff",
+        "Link": "#CD001F",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#121318",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#121318"
+    },
+    "name": "BD Blue",
+    "widgets": "Fusion"
+}

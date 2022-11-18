@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#2E3440",
+        "Base": "#3B4252",
+        "BrightText": "#ff0000",
+        "Button": "#2E3440",
+        "ButtonText": "#ffffff",
+        "Highlight": "#4C566A",
+        "HighlightedText": "#CCCCCC",
+        "Link": "#CD001F",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#2E3440",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#2E3440"
+    },
+    "name": "Nord Polar Night",
+    "widgets": "Fusion"
+}

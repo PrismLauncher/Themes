@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#000000",
+        "Base": "#000000",
+        "BrightText": "#ff0000",
+        "Button": "#000000",
+        "ButtonText": "#ffffff",
+        "Highlight": "#4C4C4C",
+        "HighlightedText": "#CCCCCC",
+        "Link": "#CD001F",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#000000",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#000000"
+    },
+    "name": "Amoled",
+    "widgets": "Fusion"
+}
