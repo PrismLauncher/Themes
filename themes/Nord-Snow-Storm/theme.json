@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#D8DEE9",
+        "Base": "#E5E9F0",
+        "BrightText": "#ff0000",
+        "Button": "#D8DEE9",
+        "ButtonText": "#000000",
+        "Highlight": "#D8DEE9",
+        "HighlightedText": "#000000",
+        "Link": "#CD001F",
+        "Text": "#000000",
+        "ToolTipBase": "#000000",
+        "ToolTipText": "#000000",
+        "Window": "#D8DEE9",
+        "WindowText": "#000000",
+        "fadeAmount": 0.5,
+        "fadeColor": "#D8DEE9"
+    },
+    "name": "Nord Snow Storm",
+    "widgets": "Fusion"
+}
