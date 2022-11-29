@@ -12,7 +12,7 @@ This repository is for community made **themes** and **icons** made for [Prism L
 [![Prism Launcher Discord server](https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner2)](https://discord.gg/prismlauncher)
 
 ## How to Use
-The documentation is located on [Prism Launcher website](https://prismlauncher.org/wiki/help-pages/change-themes/).
+The documentation is located on [Prism Launcher website](https://prismlauncher.org/wiki/getting-started/change-themes/).
 
 ## License
 Themes provided in this repository are licensed under their respective licenses.
