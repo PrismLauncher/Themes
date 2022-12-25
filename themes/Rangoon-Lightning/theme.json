@@ -1,0 +1,21 @@
+{
+	"colors": {
+		"AlternateBase": "#171714",
+		"Base": "#171714",
+		"BrightText": "#ffbf22",
+		"Button": "#171714",
+		"ButtonText": "#ffbf22",
+		"Highlight": "#ffbf22",
+		"HighlightedText": "#171714",
+		"Link": "#5f999d",
+		"Text": "#ffbf22",
+		"ToolTipBase": "#ffbf22",
+		"ToolTipText": "#ffbf22",
+		"Window": "#171714",
+		"WindowText": "#ffbf22",
+		"fadeAmount": 0.5,
+		"fadeColor": "#7f5f11"
+	},
+	"name": "Rangoon Lightning",
+	"widgets": "Fusion"
+}
