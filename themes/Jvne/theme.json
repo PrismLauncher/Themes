@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#20002D",
+        "Base": "#371468",
+        "BrightText": "#ff0000",
+        "Button": "#20002D",
+        "ButtonText": "#ffffff",
+        "Highlight": "#7455FE",
+        "HighlightedText": "#ffffff",
+        "Link": "#971343",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#20002D",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#20002D"
+    },
+    "name": "Jvne",
+    "widgets": "Fusion"
+}
