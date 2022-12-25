@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#111212",
+        "Base": "#141414",
+        "BrightText": "#ff0000",
+        "Button": "#141414",
+        "ButtonText": "#dedede",
+        "Highlight": "#102e24",
+        "HighlightedText": "#ffffff",
+        "Link": "#2a82da",
+        "Text": "#dedede",
+        "ToolTipBase": "#dedede",
+        "ToolTipText": "#dedede",
+        "Window": "#0a0a0a",
+        "WindowText": "#dedede",
+        "fadeAmount": 0.5,
+        "fadeColor": "#31363b"
+    },
+    "name": "Deep Dark",
+    "widgets": "Fusion"
+}

@@ -1,0 +1,57 @@
+/*
+ * SPDX-FileCopyrightText: 2022 Freecommunist
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip { color: #ffbf22;
+           background-color: #171714;
+           border: 2px solid #ffbf22;
+}
+
+/* MAIN */
+QMainWindow,
+QDockWidget {
+    background-color: #171714;
+}
+
+QWidget {
+    border-color: #ffbf22;
+    font-family: "Fira Code Semibold", serif;
+}
+
+QObject::separator,
+QObject::handle {
+    outline: 1;
+    outline-color: #ffbf22;
+    selection-color: #171714;
+    border-radius: 2px;
+    selection-background-color: #ffbf22;
+    alternate-background-color: transparent;
+}
+
+QToolButton {
+    background-color: #171714;
+    color: #ffbf22;
+	border: 1px solid #ffbf22;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+QToolButton:hover {
+    background-color: #ffbf22;
+    color: #171714;
+}
+
+QToolButton:pressed {
+    background-color: #ffbf22;
+    color: #171714
+}
+
+QToolButton:on {
+    background-color: #7f5f11
+    color: #171714
+}
