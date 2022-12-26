@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#5a6a50",
+        "Base": "#4c5844",
+        "BrightText": "#ff0000",
+        "Button": "#4c5844",
+        "ButtonText": "#ffffff",
+        "Highlight": "#3e4637",
+        "HighlightedText": "#91863c",
+        "Link": "#c4b550",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffe0",
+        "ToolTipText": "#000000",
+        "Window": "#4c5844",
+        "WindowText": "#a0aa95",
+        "fadeAmount": 0.9,
+        "fadeColor": "#282e22"
+    },
+    "name": "Steam Classic",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
