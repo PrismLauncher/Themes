@@ -1,16 +1,14 @@
+/*
+ * SPDX-FileCopyrightText: 2022 Acourd
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 QToolTip { 
 	color: #434661; 
 	background-color: #0f111c;
 	border: 1px solid #0f111c
 }
-
-
-
-
-
-
-
-
 
 /*MAIN*/
 QMainWindow,
