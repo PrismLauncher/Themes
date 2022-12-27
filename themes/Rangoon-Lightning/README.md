@@ -2,10 +2,9 @@
 SPDX-FileCopyrightText: 2022 AshtakaOOf
 
 SPDX-License-Identifier: CC0-1.0
-
 -->
 
-Nord
+Rangoon Lightning
 ---
 A color scheme that goes well with the rest of Freecommunist rice available at https://codeberg.org/freecommunist/dotfiles
 
