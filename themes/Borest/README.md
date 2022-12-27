@@ -1,12 +1,12 @@
 <!--
-SPDX-FileCopyrightText: "2022" "Acourd"
+SPDX-FileCopyrightText: "2022" Acourd"
 
 SPDX-License-Identifier: CC0-1.0
 -->
 
 "Borest"
 ---
-"A combination of catppuccin and fluent."
+"A combination of catppuccin and fluid, giving a nice result."
 
 ## Preview
 ![Borest Preview](preview.png)
