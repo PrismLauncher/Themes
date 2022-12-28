@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#1a1930",
+        "Base": "#1e1e2e",
+        "BrightText": "#bac2de",
+        "Button": "#1a1930",
+        "ButtonText": "#cdd6f4",
+        "Highlight": "#b4befe",
+        "HighlightedText": "#1e1e2e",
+        "Link": "#b4befe",
+        "Text": "#cdd6f4",
+        "ToolTipBase": "#dee5fc",
+        "ToolTipText": "#dee5fc",
+        "Window": "#191a24",
+        "WindowText": "#bac2de",
+        "fadeAmount": 0.5,
+        "fadeColor": "#23222b"
+    },
+    "name": "Borest-Clear	",
+    "widgets": "Fusion"
+}
