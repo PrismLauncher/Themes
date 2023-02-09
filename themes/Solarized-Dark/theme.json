@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#002b36",
+        "Base": "#073642",
+        "BrightText": "#93a1a1",
+        "Button": "#002b36",
+        "ButtonText": "#93a1a1",
+        "Highlight": "#2a82da",
+        "HighlightedText": "#000000",
+        "Link": "#2a82da",
+        "Text": "#839496",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#002b36",
+        "WindowText": "#839496",
+        "fadeAmount": 0.5,
+        "fadeColor": "#073642"
+    },
+    "name": "Solarized",
+    "widgets": "Fusion"
+}
