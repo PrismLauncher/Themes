@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2011 Ethan Schoonover 
+ * SPDX-FileCopyrightText: 2023 extremepayne
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip {
+    color: #93a1a1;
+    background-color: #073642;
+    border: 1px solid #002b36;
+}
