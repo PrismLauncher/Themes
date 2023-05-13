@@ -1,30 +1,53 @@
-# TokyoNight Theme for PrismLauncher
+<!--
+SPDX-FileCopyrightText: 2023 Fazzi
 
+SPDX-License-Identifier: CC0-1.0
+-->
+
+# TokyoNight Theme for PrismLauncher
+---
+The Tokyo Night theme for Prism Launcher
+
+## Preview
 ![Preview](preview.png)
 
-## Description
-
-This project provides a TokyoNight theme for PrismLauncher. This is a sleek and dark color scheme designed to enhance the visual experience of your Minecraft launcher.
-
-## Installation
-
-To install the TokyoNight theme for PrismLauncher on Linux, follow the instructions below:
-
-1. `mkdir -p ~/.local/share/PrismLauncher/themes` 
-2. `git clone https://gitlab.com/fazzi/tokyonight-prismlauncher ~/.local/share/PrismLauncher/themes/tokyonight`
-5. Launch PrismLauncher and navigate to the settings menu.
-6. Select the TokyoNight theme from the available theme options in Launcher > User Interface.
-7. Save your settings and enjoy!
-
 ## License
-
 This project is licensed under the [Unlicense](https://unlicense.org/). You are free to use, modify, and distribute the TokyoNight theme for PrismLauncher without any restrictions. See the `LICENSE` file for more information.
 
 Please note that the Unlicense is a public domain dedication and comes with no warranty.
 
-## Credits
 
-Originally, a theme for [Visual Studio Code](https://code.visualstudio.com/).
-Then, a [NeoVim Theme](https://github.com/folke/tokyonight.nvim).
+BD Blue
+---
+BD style theme for Prism Launcher
 
-All credits for the colours go to their respective creators.
+## Preview
+![BD Blue Preview](preview.png)
+
+## License
+```
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <http://unlicense.org/>
+```
