@@ -12,19 +12,6 @@ The Tokyo Night theme for Prism Launcher
 ![Preview](preview.png)
 
 ## License
-This project is licensed under the [Unlicense](https://unlicense.org/). You are free to use, modify, and distribute the TokyoNight theme for PrismLauncher without any restrictions. See the `LICENSE` file for more information.
-
-Please note that the Unlicense is a public domain dedication and comes with no warranty.
-
-
-BD Blue
----
-BD style theme for Prism Launcher
-
-## Preview
-![BD Blue Preview](preview.png)
-
-## License
 ```
 This is free and unencumbered software released into the public domain.
 
