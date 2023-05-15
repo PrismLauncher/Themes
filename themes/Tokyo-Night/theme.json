@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "AlternateBase": "#292e42",
+    "Base": "#1a1b26",
+    "BrightText": "#c0caf5",
+    "Button": "#1a1b26",
+    "ButtonText": "#c0caf5",
+    "Highlight": "#565f89",
+    "HighlightedText": "#c0caf5",
+    "Link": "#9aa5ce",
+    "Text": "#c0caf5",
+    "ToolTipBase": "#414868",
+    "ToolTipText": "#c0caf5",
+    "Window": "#16161e",
+    "WindowText": "#c0caf5",
+    "fadeAmount": 0.5,
+    "fadeColor": "#6c7086"
+  },
+  "name": "Tokyo Night",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion"
+}
