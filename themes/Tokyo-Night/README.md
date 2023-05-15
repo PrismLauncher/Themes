@@ -5,8 +5,6 @@ SPDX-License-Identifier: CC0-1.0
 -->
 
 # TokyoNight Theme for PrismLauncher
----
-The Tokyo Night theme for Prism Launcher
 
 ## Preview
 ![Preview](preview.png)
