@@ -1,7 +1,7 @@
 <!--
 SPDX-FileCopyrightText: 2023 Fazzi
 
-SPDX-License-Identifier: CC0-1.0
+SPDX-License-Identifier: Unlicense
 -->
 
 # TokyoNight Theme for PrismLauncher
