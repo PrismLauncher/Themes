@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#272e33",
+        "Base": "#1e2326",
+        "BrightText": "#d3c6aa",
+        "Button": "#3c4841",
+        "ButtonText": "#d3c6aa",
+        "Highlight": "#3c4841",
+        "HighlightedText": "#9da9a0",
+        "Link": "#7dbbb3",
+        "Text": "#d3c6aa",
+        "ToolTipBase": "#a7c080",
+        "ToolTipText": "#a7c080",
+        "Window": "#272e33",
+        "WindowText": "#d3c6aa",
+        "fadeAmount": 0.5,
+        "fadeColor": "#3c4841"
+    },
+    "name": "Everforest Dark Hard",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
