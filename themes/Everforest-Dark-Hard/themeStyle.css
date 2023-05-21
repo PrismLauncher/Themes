@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2019 sainhe
+ * SPDX-FileCopyrightText: 2023 Nizzuta
+ *
+ * SPDX-License-Identifier: MIT
+ */
+QToolTip { 
+	color: #d3c6aa; 
+	background-color: #272e33;
+	border: 1px solid #272e33;
+}
