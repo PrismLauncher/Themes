@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2023 Squibid
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip {
+  color: #c9c7cd; /* text color */
+  background-color: #1b1b1d;
+  border: 1px solid #1b1b1d;
+}

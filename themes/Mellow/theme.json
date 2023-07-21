@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "AlternateBase": "#131314",
+    "Base": "#161617",
+    "BrightText": "#ea83a5",
+    "Button": "#161617",
+    "ButtonText": "#c9c7cd",
+    "Highlight": "#90B99F",
+    "HighlightedText": "#131314",
+    "Link": "#aca1cf",
+    "Text": "#c9c7cd",
+    "ToolTipBase": "#c9c7cd",
+    "ToolTipText": "#c9c7cd",
+    "Window": "#131314",
+    "WindowText": "#c9c7cd",
+    "fadeAmount": 0.7,
+    "fadeColor": "#2a2a2d"
+  },
+  "name": "Mellow",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion"
+}
