@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2023 lunofe
+ *
+ * SPDX-License-Identifier: Unlicense
+ */
+
+QToolTip
+{
+    color: #999999;
+    background-color: #26292F;
+    border: 1px solid #16181C;
+}

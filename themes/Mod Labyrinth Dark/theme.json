@@ -1,0 +1,27 @@
+{
+    "colors": {
+        "Base": "#16181C",
+        "HighlightedText": "#16181C",
+        "Window": "#16181C",
+
+        "AlternateBase": "#26292F",
+        "Button": "#1b1e24",
+        "ToolTipBase": "#26292F",
+        "_comment": "Button color is used for large parts of settings, however it is being modified in code, so #1b1e24 actually resembles #26292F.",
+
+        "Highlight": "#1CD96A",
+        "Link": "#1CD96A",
+        
+        "BrightText": "#999999",
+        "ButtonText": "#999999",
+        "Text": "#999999",
+        "ToolTipText": "#999999",
+        "WindowText": "#999999",
+
+        "fadeAmount": 0.5,
+        "fadeColor": "#FF496E"
+    },
+    "name": "Mod Labyrinth Dark",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
