@@ -21,7 +21,7 @@
         "fadeAmount": 0.5,
         "fadeColor": "#FF496E"
     },
-    "name": "Modrinth Dark",
+    "name": "Mod Labyrinth Dark",
     "qssFilePath": "themeStyle.css",
     "widgets": "Fusion"
 }
