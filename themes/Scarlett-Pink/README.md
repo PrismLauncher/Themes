@@ -7,6 +7,7 @@ SPDX-License-Identifier: CC0-1.0
 Scarlett Pink
 ---
 A light pink and red theme.
+Looks best when paired with the Flat icons pack.
 
 ## Preview
 ![Scarlett Pink Preview](preview.png)
