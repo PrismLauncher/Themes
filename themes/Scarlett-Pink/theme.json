@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#F8C8DC",
+        "Base": "#FFDBE9",
+        "BrightText": "#900000",
+        "Button": "#FFDBE9",
+        "ButtonText": "#900000",
+        "Highlight": "#900000",
+        "HighlightedText": "#ffffff",
+        "Link": "#900000",
+        "Text": "#900000",
+        "ToolTipBase": "#900000",
+        "ToolTipText": "#900000",
+        "Window": "#F8C8DC",
+        "WindowText": "#900000",
+        "fadeAmount": 0.5,
+        "fadeColor": "#31363b"
+    },
+    "name": "Scarlett Pink",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
