@@ -10,6 +10,7 @@ on:
       - main
     paths:
       - "themes/**"
+      - "icons/**"
 
 jobs:
   package:
@@ -23,9 +24,8 @@ jobs:
           sudo apt-get install -y parallel zip
 
       - name: Package
-        working-directory: themes
         run: |
-          parallel "zip -r {}.zip {}/" ::: *
+          parallel "zip -r {}.zip {}/" ::: {themes,icons}/*
           echo "DISPLAY_NAME=$(date "+%Y-%m-%d %H:%M:%S")" >> "$GITHUB_ENV"
           echo "TAG_NAME=$(date "+%Y-%m-%d_%s")" >> "$GITHUB_ENV"
 
@@ -41,4 +41,5 @@ jobs:
           prerelease: false
           files: |
             themes/*.zip
+            icons/*.zip
 
