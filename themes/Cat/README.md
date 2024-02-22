@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC0-1.0
 
 Cat :3
 ---
-[Cat](https://tooltech.neocities.org/) theme for Prism Launcher. owo
+[Cat](https://tooltech.neocities.org/) theme for Prism Launcher.
 
 ## Preview
 ![Cat Preview](preview.png)
