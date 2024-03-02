@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2021 Tommaso Laurenzi
+ * SPDX-FileCopyrightText: 2024 c0smic
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip { 
+	color: #DCD7BA;
+	background-color: #54546D;
+	border: 1px solid #54546D;
+}
