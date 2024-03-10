@@ -1,1 +1,11 @@
-QToolTip { color: #d3c6aa; background-color: #7fbbb3; border: 1px solid #d3c6aa; }
+/*
+ * SPDX-FileCopyrightText: 2013-2021 MultiMC Contributors
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip {
+    color: #d3c6aa;
+    background-color: #7fbbb3;
+    border: 1px solid #d3c6aa;
+}
