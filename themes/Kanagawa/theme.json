@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#1F1F28",
+        "Base": "#1F1F28",
+        "BrightText": "#DCD7BA",
+        "Button": "#2A2A37",
+        "ButtonText": "#DCD7BA",
+        "Highlight": "#54546D",
+        "HighlightedText": "#C8C093",
+        "Link": "#7AA89F",
+        "Text": "#DCD7BA",
+        "ToolTipBase": "#363646",
+        "ToolTipText": "#DCD7BA",
+        "Window": "#16161D",
+        "WindowText": "#DCD7BA",
+        "fadeAmount": 0.5,
+        "fadeColor": "#2A2A37"
+    },
+    "name": "Kanagawa",
+    "widgets": "Fusion"
+}

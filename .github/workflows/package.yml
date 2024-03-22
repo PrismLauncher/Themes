@@ -10,6 +10,10 @@ on:
       - main
     paths:
       - "themes/**"
+      - "icons/**"
+  pull_request:
+    branches:
+      - main
 
 jobs:
   package:
@@ -23,22 +27,29 @@ jobs:
           sudo apt-get install -y parallel zip
 
       - name: Package
-        working-directory: themes
         run: |
-          parallel "zip -r {}.zip {}/" ::: *
+          mkdir -p out
+          parallel "zip -r out/{/}-theme.zip {}/" ::: themes/*
+          parallel "zip -r out/{/}-icons.zip {}/" ::: icons/*
           echo "DISPLAY_NAME=$(date "+%Y-%m-%d %H:%M:%S")" >> "$GITHUB_ENV"
           echo "TAG_NAME=$(date "+%Y-%m-%d_%s")" >> "$GITHUB_ENV"
 
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: themes
+          path: out/*.zip
+
       - name: Create release
         id: create_release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ github.event_name == 'push' }}
         with:
           name: ${{ env.DISPLAY_NAME }}
           tag_name: ${{ env.TAG_NAME }}
           draft: false
           prerelease: false
           files: |
-            themes/*.zip
-
+            out/*.zip

@@ -1,23 +1,22 @@
 <!--
-SPDX-FileCopyrightText: 2022 Sefa Eyeoglu <contact@scrumplex.net>
+SPDX-FileCopyrightText: 2024 c0smic
 
 SPDX-License-Identifier: CC0-1.0
 -->
 
-Fluent-Dark
+Kanagawa
 ---
-Microsoft Fluent Design inspired dark theme for Prism Launcher.
+[Kanagawa](https://github.com/rebelot/kanagawa.nvim) theme for Prism Launcher.
 
 ## Preview
-![Fluent-Dark Preview](preview.png)
+![Kanagawa Preview](preview.png)
 
 ## License
 ```
 MIT License
 
-Copyright (c) 2022 JoeGaming
-Copyright (c) 2022 Witali Hirsch
-Copyright (c) 2020 Microsoft Corporation
+Copyright (c) 2021 Tommaso Laurenzi
+Copyright (c) 2024 c0smic
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
