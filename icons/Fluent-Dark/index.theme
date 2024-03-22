@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Fluent Dark
 Comment=Fluent Dark icons
-Inherits=multimc
+Inherits=flat_white
 Directories=scalable
 
 [scalable]
