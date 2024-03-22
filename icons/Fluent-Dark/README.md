@@ -9,7 +9,7 @@ Fluent-Dark
 Microsoft Fluent Design inspired dark theme for Prism Launcher.
 
 ## Preview
-![Fluent-Dark Preview](preview.png)
+![Fluent-Dark Preview](../../themes/Fluent-Dark/preview.png)
 
 ## License
 ```
