@@ -11,6 +11,9 @@ on:
     paths:
       - "themes/**"
       - "icons/**"
+  pull_request:
+    branches:
+      - main
 
 jobs:
   package:
@@ -25,21 +28,28 @@ jobs:
 
       - name: Package
         run: |
-          parallel "zip -r {}.zip {}/" ::: {themes,icons}/*
+          mkdir -p out
+          parallel "zip -r out/{/}-theme.zip {}/" ::: themes/*
+          parallel "zip -r out/{/}-icons.zip {}/" ::: icons/*
           echo "DISPLAY_NAME=$(date "+%Y-%m-%d %H:%M:%S")" >> "$GITHUB_ENV"
           echo "TAG_NAME=$(date "+%Y-%m-%d_%s")" >> "$GITHUB_ENV"
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: themes
+          path: out/*.zip
 
       - name: Create release
         id: create_release
         uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ github.event_name == 'push' }}
         with:
           name: ${{ env.DISPLAY_NAME }}
           tag_name: ${{ env.TAG_NAME }}
           draft: false
           prerelease: false
           files: |
-            themes/*.zip
-            icons/*.zip
-
+            out/*.zip
