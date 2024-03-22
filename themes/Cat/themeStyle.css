@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2024 tooltech
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
+QToolTip { 
+	color: #CCBEE4; 
+	background-color: #A295B7;
+	border: 1px solid #A88BD9
+}

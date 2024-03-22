@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#f0c9c3",
+        "Base": "#9085a2",
+        "BrightText": "#998539",
+        "Button": "#1C1454",
+        "ButtonText": "#E8E5D9",
+        "Highlight": "#CAD188",
+        "HighlightedText": "#2e3440",
+        "Link": "#CDD188",
+        "Text": "#F1D460",
+        "ToolTipBase": "#C6C8B4",
+        "ToolTipText": "#E8E7D9",
+        "Window": "#9F90B9",
+        "WindowText": "#F1D460",
+        "fadeAmount": 0.5,
+        "fadeColor": "#6D6182"
+    },
+    "name": "Cat",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
