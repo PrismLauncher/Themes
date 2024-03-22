@@ -16,7 +16,7 @@
         "fadeAmount": 0.5,
         "fadeColor": "#31363b"
     },
-    "name": "Breeze Dark",
+    "name": "Breeze-ish Dark",
     "qssFilePath": "themeStyle.css",
     "widgets": "Fusion"
 }

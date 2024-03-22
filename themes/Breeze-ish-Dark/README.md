@@ -4,12 +4,12 @@ SPDX-FileCopyrightText: 2024 DioEgizio
 SPDX-License-Identifier: CC0-1.0
 -->
 
-Breeze-Dark
+Breeze-ish-Dark
 ---
-Theme inspired by KDE's Breeze Dark, based on the default dark Prism Launcher theme before 5.0 and [QBreeze](https://github.com/SZinedine/QBreeze)
+Theme inspired by KDE's Breeze Dark but with a slightly darker colour scheme, based on the default dark Prism Launcher theme before 5.0 and [QBreeze](https://github.com/SZinedine/QBreeze)
 
 ## Preview
-![Breeze-Dark Preview](preview.png)
+![Breeze-ish-Dark Preview](preview.png)
 
 ## License
 Old default dark Prism Launcher theme
