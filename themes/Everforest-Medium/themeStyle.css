@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2019 sainnhe
+ * SPDX-FileCopyrightText: 2024 protodrew
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip {
+    color: #d3c6aa;
+    background-color: #7fbbb3;
+    border: 1px solid #d3c6aa;
+}
