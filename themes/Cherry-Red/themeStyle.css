@@ -39,7 +39,7 @@ QDialog,
 QWizard *,
 QCalendarWidget *,
 #qswPages > QObject {
-    background-color: #1e1e2e;
+    background-color: #5f1616;
     color: #ffffff; 
 }
 
