@@ -13,7 +13,9 @@ Teawie Pack, but for some reason he was imprisoned
 
 ## License
 ```
+SPDX-FileCopyrightText: 2023 SympathyTea
 SPDX-FileCopyrightText: 2024 Sefa Eyeoglu <contact@scrumplex.net>
 
+SPDX-License-Identifier: CC-BY-SA-4.0
 SPDX-License-Identifier: MIT
 ```

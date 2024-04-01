@@ -13,5 +13,13 @@ Theme/Icon/CatPack Description
 
 ## License
 ```
-"Put the content of theme.json.license, index.theme.license or catpack.json.license here"
+Put all SPDX-FileCopyrightText and SPDX-License-Identifier entries here
+
+Example:
+
+SPDX-FileCopyrightText: 2024 Foo Bar <foo@bar.foo>
+SPDX-FileCopyrightText: 2023 Steve <steve@mojang.com>
+
+SPDX-License-Identifier: MIT
+SPDX-License-Identifier: CC-BY-4.0
 ```
