@@ -11,6 +11,7 @@ on:
     paths:
       - "themes/**"
       - "icons/**"
+      - "cats/**"
   pull_request:
     branches:
       - main
@@ -31,6 +32,7 @@ jobs:
           mkdir -p out
           parallel "zip -r out/{/}-theme.zip {}/" ::: themes/*
           parallel "zip -r out/{/}-icons.zip {}/" ::: icons/*
+          parallel "zip -r out/{/}-catpack.zip {}/" ::: cats/*
           echo "DISPLAY_NAME=$(date "+%Y-%m-%d %H:%M:%S")" >> "$GITHUB_ENV"
           echo "TAG_NAME=$(date "+%Y-%m-%d_%s")" >> "$GITHUB_ENV"
 

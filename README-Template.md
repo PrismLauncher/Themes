@@ -4,14 +4,14 @@ SPDX-FileCopyrightText: "Year" "Nickname or Name"
 SPDX-License-Identifier: CC0-1.0
 -->
 
-"Theme/Icon Name"
+Theme/Icon/CatPack Name
 ---
-"Theme/Icon Description"
+Theme/Icon/CatPack Description
 
 ## Preview
 ![Preview](preview.png)
 
 ## License
 ```
-"Put the content of theme.json.license or index.theme.license here"
+"Put the content of theme.json.license, index.theme.license or catpack.json.license here"
 ```
