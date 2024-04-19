@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#232a2e",
+        "Base": "#2d353b",
+        "BrightText": "#d3c6aa",
+        "Button": "#425047",
+        "ButtonText": "#d3c6aa",
+        "Highlight": "#425047",
+        "HighlightedText": "#d3c6aa",
+        "Link": "#a7c080",
+        "Text": "#d3c6aa",
+        "ToolTipBase": "#9da9a0",
+        "ToolTipText": "#9da9a0",
+        "Window": "#343f44",
+        "WindowText": "#d3c6aa",
+        "fadeAmount": 0,
+        "fadeColor": "#2d353b"
+    },
+    "name": "everforest",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}

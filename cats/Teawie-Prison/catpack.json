@@ -1,0 +1,21 @@
+{
+  "name": "Teawie Prison",
+  "default": "teawie_prison.png",
+  "variants": [
+    {
+      "startTime": { "day": 12, "month": 4 },
+      "endTime": { "day": 16, "month": 4 },
+      "path": "teawie_prison_spooky.png"
+    },
+    {
+      "startTime": { "day": 20, "month": 12 },
+      "endTime": { "day": 28, "month": 12 },
+      "path": "teawie_prison_xmas.png"
+    },
+    {
+      "startTime": { "day": 17, "month": 10 },
+      "endTime": { "day": 5, "month": 11 },
+      "path": "teawie_prison_bday.png"
+    }
+  ]
+}
