@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#32302f",
+        "Base": "#504945",
+        "BrightText": "#cca41d",
+        "Button": "#3c3836",
+        "ButtonText": "#f9f5d7",
+        "Highlight": "#83a598",
+        "HighlightedText": "#fffff",
+        "Link": "#83a598",
+        "Text": "#fbf1c7",
+        "ToolTipBase": "#ff0000",
+        "ToolTipText": "#ffffff",
+        "Window": "#32302f",
+        "WindowText": "#f9f5d7",
+        "fadeAmount": 0.5,
+        "fadeColor": "#3c3836"
+    },
+    "name": "Gruvbox",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
