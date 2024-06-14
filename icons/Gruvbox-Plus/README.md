@@ -8,7 +8,7 @@ Gruvbox-plus
 gruvbox-plus icon theme, created for gruvbox lovers
 
 ## Preview
-![Preview](pddd)
+![Preview](preview.png)
 
 ## License
 ```
