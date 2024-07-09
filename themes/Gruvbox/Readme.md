@@ -8,7 +8,7 @@ Gruvbox
 [Gruvbox](https://github.com/morhetz/gruvbox) style theme for fans of this palette
 
 ## Preview
-![Grvbx Preview](preview.png)
+![Gruvbox Preview](preview.png)
 
 ## License
 ```
