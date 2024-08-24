@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#737994"
     },
+    "logColors": {
+        "Launcher": "#ca9ee6",
+        "Error": "#e78284",
+        "Warning": "#e5c890",
+        "Debug": "#a6d189",
+        "FatalHighlight": "#e78284",
+        "Fatal": "#292c3c"
+    },
     "name": "Catppuccin Frappé",
     "widgets": "Fusion"
 }

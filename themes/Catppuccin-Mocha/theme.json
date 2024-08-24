@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#6c7086"
     },
+    "logColors": {
+        "Launcher": "#cba6f7",
+        "Error": "#f38ba8",
+        "Warning": "#f9e2af",
+        "Debug": "#a6e3a1",
+        "FatalHighlight": "#f38ba8",
+        "Fatal": "#181825"
+    },
     "name": "Catppuccin Mocha",
     "widgets": "Fusion"
 }

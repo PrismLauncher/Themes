@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#6e738d"
     },
+    "logColors": {
+        "Launcher": "#c6a0f6",
+        "Error": "#ed8796",
+        "Warning": "#eed49f",
+        "Debug": "#a6da95",
+        "FatalHighlight": "#ed8796",
+        "Fatal": "#1e2030"
+    },
     "name": "Catppuccin Macchiato",
     "widgets": "Fusion"
 }

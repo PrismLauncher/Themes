@@ -16,6 +16,14 @@
     "fadeAmount": 0.5,
     "fadeColor": "#6c7086"
   },
+  "logColors": {
+    "Launcher": "#bb9af7",
+    "Error": "#f7768e",
+    "Warning": "#e0af68",
+    "Debug": "#9ece6a",
+    "FatalHighlight": "#f7768e",
+    "Fatal": "#1a1b26"
+  },
   "name": "Tokyo Night",
   "qssFilePath": "themeStyle.css",
   "widgets": "Fusion"
