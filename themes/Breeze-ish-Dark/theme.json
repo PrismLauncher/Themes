@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#31363b",
+        "Base": "#232629",
+        "BrightText": "#ff0000",
+        "Button": "#31363b",
+        "ButtonText": "#ffffff",
+        "Highlight": "#2a82da",
+        "HighlightedText": "#000000",
+        "Link": "#2a82da",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#31363b",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#31363b"
+    },
+    "name": "Breeze-ish Dark",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
