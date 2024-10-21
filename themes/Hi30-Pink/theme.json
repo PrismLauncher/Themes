@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#171417",
+        "Base": "#171417",
+        "BrightText": "#eb90f5",
+        "Button": "#171417",
+        "ButtonText": "#eb90f5",
+        "Highlight": "#eb90f5",
+        "HighlightedText": "#171417",
+        "Link": "#55cdfc",
+        "Text": "#eb90f5",
+        "ToolTipBase": "#eb90f5",
+        "ToolTipText": "#eb90f5",
+        "Window": "#171417",
+        "WindowText": "#eb90f5",
+        "fadeAmount": 0.5,
+        "fadeColor": "#741180"
+    },
+    "name": "Hi30 Pink",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
