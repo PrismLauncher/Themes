@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#44475a"
     },
+    "logColors": {
+        "Launcher": "#bd93f9",
+        "Error": "#ff5555",
+        "Warning": "#f1Fa8c",
+        "Debug": "#50fa7b",
+        "FatalHighlight": "#ff5555",
+        "Fatal": "#282a36"
+    },
     "name": "Dracula",
     "widgets": "Fusion"
 }

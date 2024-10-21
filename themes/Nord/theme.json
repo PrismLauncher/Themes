@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#353B49"
     },
+    "logColors": {
+        "Launcher": "#B48EAD",
+        "Error": "#BF616A",
+        "Warning": "#EBCB8B",
+        "Debug": "#A3BE8C",
+        "FatalHighlight": "#BF616A",
+        "Fatal": "#2E3440"
+    },
     "name": "Nord",
     "widgets": "Fusion"
 }

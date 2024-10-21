@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#073642"
     },
+    "logColors": {
+        "Launcher": "#6c71c4",
+        "Error": "#dc322f",
+        "Warning": "#b58900",
+        "Debug": "#2aa198",
+        "FatalHighlight": "#dc322f",
+        "Fatal": "#073642"
+    },
     "name": "Solarized",
     "widgets": "Fusion"
 }

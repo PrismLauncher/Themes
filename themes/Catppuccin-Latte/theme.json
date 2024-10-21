@@ -16,6 +16,14 @@
         "fadeAmount": 0.5,
         "fadeColor": "#9ca0b0"
     },
+    "logColors": {
+        "Launcher": "#8839ef",
+        "Error": "#d20f39",
+        "Warning": "#df8e1d",
+        "Debug": "#40a02b",
+        "FatalHighlight": "#d20f39",
+        "Fatal": "#e6e9ef"
+    },
     "name": "Catppuccin Latte",
     "widgets": "Fusion"
 }
