@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#2c2c2c",
+        "Base": "#414141",
+        "BrightText": "#fdfdfd",
+        "Button": "#5e5e5e",
+        "ButtonText": "#ffffff",
+        "Highlight": "#f16a32",
+        "HighlightedText": "#151414",
+        "Link": "#999999",
+        "Text": "151414",
+        "ToolTipBase": "#414141",
+        "ToolTipText": "151414",
+        "Window": "#2c2c2c",
+        "WindowText": "151414",
+        "fadeAmount": 0.5,
+        "fadeColor": "#8d8d8d"
+    },
+    "name": "Renoise",
+    "widgets": "Fusion"
+}
