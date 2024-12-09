@@ -4,12 +4,12 @@ SPDX-FileCopyrightText: 2022 Sefa Eyeoglu <contact@scrumplex.net>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-Breeze-Dark
+MultiMC-Dark
 ---
 Default dark theme prior to Prism Launcher 5.0
 
 ## Preview
-![Breeze-Dark Preview](preview.png)
+![MultiMC-Dark Preview](preview.png)
 
 ## License
 ```
