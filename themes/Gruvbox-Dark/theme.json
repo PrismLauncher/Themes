@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "AlternateBase": "#282828",
+        "Base": "#3c3836",
+        "BrightText": "#b5bfe2",
+        "Button": "#504945",
+        "ButtonText": "#d5c4a1",
+        "Highlight": "#fbf1c7",
+        "HighlightedText": "#282828",
+        "Link": "#fbf1c7",
+        "Text": "#d5c4a1",
+        "ToolTipBase": "#dee5fc",
+        "ToolTipText": "#dee5fc",
+        "Window": "#282828",
+        "WindowText": "#b5bfe2",
+        "fadeAmount": 0.5,
+        "fadeColor": "#737994"
+    },
+    "logColors": {
+        "Launcher": "#d3869b",
+        "Error": "#e78284",
+        "Warning": "#fabd2f",
+        "Debug": "#b8bb26",
+        "FatalHighlight": "#e78284",
+        "Fatal": "#3c3836"
+    },
+    "name": "Gruvbox Dark",
+    "widgets": "Fusion"
+}
