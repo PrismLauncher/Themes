@@ -812,25 +812,21 @@ QTextEdit,
 QPlainTextEdit {
     background-color: rgba(255, 255, 255, 16);
     border: 1px solid rgba(255, 255, 255, 5);
-    border-radius: 7px;
     border-bottom: 1px solid #707070;
-    padding: 5px;
 }
 
 QTextEdit:hover,
 QPlainTextEdit:hover {
-    background-color: rgba(255, 255, 255, 20);
-    border: 1px solid rgba(255, 255, 255, 10);
-    border-bottom: 1px solid #707070;
+    background-color: rgba(0, 0, 0, 255);
 }
 
 QTextEdit:focus,
 QPlainTextEdit:focus {
-    border-bottom: 2px solid #60cdff;
-    background-color: rgba(255, 255, 255, 5);
-    border-top: 1px solid rgba(255, 255, 255, 7);
-    border-left: 1px solid rgba(255, 255, 255, 7);
-    border-right: 1px solid rgba(255, 255, 255, 7);
+    border-bottom: 1px solid #60cdff;
+    background-color: rgba(0, 0, 0, 255);
+    border-top: 1px solid #60cdff;
+    border-left: 1px solid #60cdff;
+    border-right: 1px solid #60cdff;
 }
 
 QTextEdit:disabled,
