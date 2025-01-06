@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2025 Almalexia
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip { 
+	color: #d5c4a1; 
+	background-color: #282828;
+	border: 1px solid #504945
+}
