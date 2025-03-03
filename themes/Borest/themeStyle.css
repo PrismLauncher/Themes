@@ -92,6 +92,9 @@ QToolButton::menu-indicator {
 
 QToolButton::menu-arrow {
 	image: url(theme:ComboBox.png);
+	width: 20px;
+	height: 100%;
+	border-left: 1px solid rgba(255, 255, 255, 8);
 }
 
 QToolButton::menu-button {
@@ -508,6 +511,7 @@ QSpinBox {
     padding-bottom: 6px;
     min-width: 60px;
     border-bottom: 1px solid #9ab8e6;
+    min-height: 17px;
 }
 
 QSpinBox:hover {
@@ -593,6 +597,7 @@ QDoubleSpinBox {
     padding-bottom: 6px;
     min-width: 70px;
     border-bottom: 1px solid #9ab8e6;
+    min-height: 17px;
 }
 
 QDoubleSpinBox:hover {
@@ -678,6 +683,7 @@ QDateTimeEdit {
     padding-bottom: 6px;
     min-width: 100px;
     border-bottom: 1px solid #9ab8e6;
+    min-height: 17px;
 }
 
 QDateTimeEdit:hover {
@@ -761,6 +767,7 @@ QComboBox {
     padding-left: 10px;
     padding-top: 5px;
     padding-bottom: 6px;
+    min-height: 17px;
 }
 
 QGroupBox
@@ -815,6 +822,7 @@ QPlainTextEdit {
     background-color: rgba(255, 255, 255, 16);
     border: 1px solid rgba(255, 255, 255, 5);
     border-bottom: 1px solid #9ab8e6;
+    min-height: 17px;
 }
 
 QTextEdit:hover,
@@ -848,6 +856,7 @@ QLineEdit {
     padding-left: 5px;
     padding-top: 4px;
     padding-bottom: 4px;
+    min-height: 17px;
 }
 
 QLineEdit:hover {
