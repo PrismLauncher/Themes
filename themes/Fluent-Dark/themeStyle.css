@@ -192,19 +192,17 @@ QPushButton:disabled {
 /*GROUPBOX*/
 QGroupBox {
     border-radius: 5px;
-    border: 1px solid rgba(255, 255, 255, 3);
+    border: 0px solid rgba(255, 255, 255, 0);
     margin-top: 23px;
-    background-color: rgba(255, 255, 255, 5);
+    background-color: rgba(255, 255, 255, 0);
 }
 
 QGroupBox::title {
     subcontrol-origin: margin;
     subcontrol-position: top left;
-    background-color: rgba(255, 255, 255, 16);
-    padding: 3px 15px;
-    margin-left: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
 }
 
 QGroupBox::title::disabled {
@@ -336,20 +334,23 @@ QHeaderView::down-arrow {
 
 /*TABWIDGET*/
 QTabWidget::pane {
-    border: 0px solid rgba(255, 255, 255, 40);
+    border: 0px solid rgba(255, 255, 255, 0);
     border-radius: 5px;
+    background-color: rgba(255, 255, 255, 16);
 }
 
 QTabWidget::tab-bar {
-    left: 15px;
+	left:5px;
+	height: 100px;
 }
 
 QTabBar::tab {
     background-color: rgba(255, 255, 255, 0);
     padding: 8px 15px;
     margin-right: 2px;
-    margin-bottom: 2px;
-    border-radius: 5px;
+	border-radius: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 QTabBar::tab:hover {
