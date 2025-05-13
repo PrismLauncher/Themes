@@ -13,7 +13,7 @@ QDockWidget {
 
 QWidget {
     border-color: rgba(255, 255, 255, 8);
-    font-family: "Segoe UI Variable Text Semibold", serif;
+    font-family: "Segoe UI Variable Text Semibold", "Segoe UI", serif;
     border-radius: 4px;
 }
 
@@ -341,7 +341,6 @@ QTabWidget::pane {
 
 QTabWidget::tab-bar {
 	left:8px;
-	height: 100px;
 }
 
 QTabBar::tab {
@@ -814,35 +813,7 @@ QComboBox QAbstractItemView {
 
 /*TEXTEDIT*/
 QTextEdit,
-QPlainTextEdit {
-    background-color: rgba(255, 255, 255, 16);
-    border: 1px solid rgba(255, 255, 255, 5);
-    border-bottom: 1px solid #707070;
-    min-height: 17px;
-}
-
-QTextEdit:hover,
-QPlainTextEdit:hover {
-    background-color: rgba(0, 0, 0, 255);
-}
-
-QTextEdit:focus,
-QPlainTextEdit:focus {
-    border-bottom: 1px solid #60cdff;
-    background-color: rgba(0, 0, 0, 255);
-    border-top: 1px solid #60cdff;
-    border-left: 1px solid #60cdff;
-    border-right: 1px solid #60cdff;
-}
-
-QTextEdit:disabled,
-QPlainTextEdit:disabled {
-    color: rgba(150, 150, 150);
-    background-color: rgba(255, 255, 255, 13);
-    border: 1px solid rgba(255, 255, 255, 5);
-}
-
-/*LINEDIT*/
+QPlainTextEdit,
 QLineEdit {
     background-color: rgba(255, 255, 255, 16);
     border: 1px solid rgba(255, 255, 255, 5);
@@ -855,12 +826,16 @@ QLineEdit {
     min-height: 17px;
 }
 
+QTextEdit:hover,
+QPlainTextEdit:hover,
 QLineEdit:hover {
     background-color: rgba(255, 255, 255, 20);
     border: 1px solid rgba(255, 255, 255, 10);
     border-bottom: 1px solid #707070;
 }
 
+QTextEdit:focus,
+QPlainTextEdit:focus,
 QLineEdit:focus {
     border-bottom: 2px solid #60cdff;
     background-color: rgba(255, 255, 255, 5);
@@ -869,6 +844,12 @@ QLineEdit:focus {
     border-right: 1px solid rgba(255, 255, 255, 7);
 }
 
+InstanceView QTextEdit:focus {
+    background-color: #1f1f1f;
+}
+
+QTextEdit:disabled,
+QPlainTextEdit:disabled,
 QLineEdit:disabled {
     color: rgba(150, 150, 150);
     background-color: rgba(255, 255, 255, 13);
