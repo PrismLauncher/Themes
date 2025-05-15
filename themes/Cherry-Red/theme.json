@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#C51337",
+        "Base": "#C51337",
+        "BrightText": "#ff0000",
+        "Button": "#31363b",
+        "ButtonText": "#ffffff",
+        "Highlight": "#2a82da",
+        "HighlightedText": "#000000",
+        "Link": "#2a82da",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "C51337",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#31363b"
+    },
+    "name": "Cherry Red",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
