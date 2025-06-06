@@ -1,4 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2025 Almalexia
 
+SPDX-License-Identifier: CC0-1.0
+-->
 Gruvbox-Soft
 ---
 [Gruvbox-Soft](https://github.com/morhetz/gruvbox) theme for Prism Launcher.
