@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "AlternateBase": "#282828",
+        "Base": "#3c3836",
+        "BrightText": "#ebdbb2",
+        "Button": "#504945",
+        "ButtonText": "#d5c4a1",
+        "Highlight": "#665c54",
+        "HighlightedText": "#282828",
+        "Link": "#665c54",
+        "Text": "#d5c4a1",
+        "ToolTipBase": "#ff0000",
+        "ToolTipText": "#282828",
+        "Window": "#282828",
+        "WindowText": "#ebdbb2",
+        "fadeAmount": 0.5,
+        "fadeColor": "#737994"
+    },
+    "logColors": {
+        "Launcher": "#d3869b",
+        "Error": "#e78284",
+        "Warning": "#fabd2f",
+        "Debug": "#b8bb26",
+        "FatalHighlight": "#e78284",
+        "Fatal": "#3c3836"
+    },
+    "name": "Gruvbox Soft",
+    "widgets": "Fusion"
+}
