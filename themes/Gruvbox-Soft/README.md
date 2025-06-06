@@ -1,11 +1,11 @@
 
-Gruvbox-Dark
+Gruvbox-Soft
 ---
-[Gruvbox-Dark](https://github.com/morhetz/gruvbox) theme for Prism Launcher.
+[Gruvbox-Soft](https://github.com/morhetz/gruvbox) theme for Prism Launcher.
 based on Cattppuccin theme
 
 ## Preview
-![Gruvbox-Dark Preview](preview.png)
+![Gruvbox-Soft Preview](preview.png)
 
 ## License
 ```
