@@ -1,0 +1,11 @@
+/*
+* SPDX-FileCopyrightText: 2025 Mafien_0
+*
+* SPDX-License-Identifier: CC-BY-4.0
+ */
+
+QToolTip { 
+	color: #d5c4a1; 
+	background-color: #282828;
+	border: 1px solid #282828;
+}
