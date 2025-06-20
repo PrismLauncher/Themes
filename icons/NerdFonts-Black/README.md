@@ -9,7 +9,7 @@ Nerd Fonts Glyphs - Black
 Glyphs extracted from Ubuntu Nerd Font 0.83 with FontForge
 
 ## Preview
-![Main Screen Preview](./preview-main.png) ![Pack Edit Screen Preview](./preview-edit.png)
+![Main Screen Preview](./preview.png)
 
 ## License
 ```
