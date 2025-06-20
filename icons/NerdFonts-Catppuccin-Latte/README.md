@@ -11,6 +11,8 @@ Glyphs extracted from Ubuntu Nerd Font 0.83 with FontForge
 ## Preview
 ![Main Screen Preview](./preview.png)
 
+Preview uses Catppuccin's official [Latte theme](../../themes/Catppuccin-Latte/README.md)
+
 ## License
 ```
 

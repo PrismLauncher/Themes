@@ -11,6 +11,8 @@ Glyphs extracted from Ubuntu Nerd Font 0.83 with FontForge
 ## Preview
 ![Main Screen Preview](./preview.png)
 
+Preview uses Catppuccin's official [Macchiato theme](../../themes/Catppuccin-Macchiato/README.md)
+
 ## License
 ```
 
