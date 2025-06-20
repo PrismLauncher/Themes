@@ -15,8 +15,6 @@ Preview uses Catppuccin's official [Latte theme](../../themes/Catppuccin-Latte/R
 
 ## License
 ```
-
-SPDX-FileCopyrightText: 2025 Furglitch
 SPDX-FileCopyrightText: 2025 Ryan L McIntyre (NerdFonts)
 SPDX-License-Identifier: MIT
 

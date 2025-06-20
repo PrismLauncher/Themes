@@ -15,8 +15,6 @@ Preview uses Catppuccin's official [Frappe theme](../../themes/Catppuccin-Frappe
 
 ## License
 ```
-
-SPDX-FileCopyrightText: 2025 Furglitch
 SPDX-FileCopyrightText: 2025 Ryan L McIntyre (NerdFonts)
 SPDX-License-Identifier: MIT
 
