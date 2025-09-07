@@ -18,8 +18,8 @@ Colorscheme by Neyrobyte.
 ```
 MIT License
 
-Copyright (c) 2023 Neyrobyte
-Copyright (c) 2023 Neyrobyte
+Copyright (c) 2025 Neyrobyte
+Copyright (c) 2025 Neyrobyte
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
