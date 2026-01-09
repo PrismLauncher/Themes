@@ -1,14 +1,22 @@
-# Material You
+<!--
+SPDX-FileCopyrightText: "Year" "Nickname or Name"
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
+Material Icons
 ---
-White Material You themed icons from Google's Material You design system.
+Google's Material Symbols for PrismLauncher.
+
 
 ## Preview
----
-![preview](preview.png)
+![Preview](preview.png)
 
-## Licence
+## License
 ```
-MIT License
+SPDX-FileCopyrightText: 2025 Bluemethyst
+SPDX-FileCopyrightText: 2025 Google LLC
+
+SPDX-License-Identifier: MIT
+SPDX-License-Identifier: Apache-2.0
 ```
-## Credits
-All icons are provided by [Google's Material Symbols](https://fonts.google.com/icons) and are licensed under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
