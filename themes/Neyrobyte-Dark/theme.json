@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#0d1117",
+        "Base": "#0d1117",
+        "BrightText": "#fa000c",
+        "Button": "#010409",
+        "ButtonText": "#c7cdcc",
+        "Highlight": "#029273",
+        "HighlightedText": "#131414",
+        "Link": "#00d18b",
+        "Text": "#c9c7cd",
+        "ToolTipBase": "#c9c7cd",
+        "ToolTipText": "#c9c7cd",
+        "Window": "#010409",
+        "WindowText": "#029273",
+        "fadeAmount": 0.7,
+        "fadeColor": "#181e27"
+    },
+    "name": "Neyrobyte",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
