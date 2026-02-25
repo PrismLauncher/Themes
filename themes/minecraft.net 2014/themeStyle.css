@@ -2,6 +2,7 @@
 QWidget#centralWidget,
 QStackedWidget,
 QTabWidget::pane,
+QFrame,
 QListView,
 QTreeView,
 QTableView {
@@ -11,6 +12,11 @@ QTableView {
 QMenuBar,
 QStatusBar,
 QToolBar[orientation="1"] {
+  border-image: url("themes/minecraft.net 2014/resources/bg_top.png") 0 0 0 0 repeat repeat;
+}
+
+QStatusBar QFrame,
+QStatusBar QFrame > QWidget {
   border-image: url("themes/minecraft.net 2014/resources/bg_top.png") 0 0 0 0 repeat repeat;
 }
 
@@ -36,3 +42,4 @@ QToolButton:hover {
   background-color: rgba(255, 255, 255, 40);
   border-radius: 2px;
 }
+
