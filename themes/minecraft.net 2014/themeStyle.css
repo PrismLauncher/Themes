@@ -1,0 +1,60 @@
+
+QWidget#centralWidget,
+QStackedWidget,
+QTabWidget::pane,
+QFrame,
+QListView,
+QTreeView,
+QTableView {
+  border-image: url("themes/minecraft.net 2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
+}
+
+QMenuBar,
+QStatusBar,
+QToolBar[orientation="1"] {
+  border-image: url("themes/minecraft.net 2014/resources/bg_top.png") 0 0 0 0 repeat repeat;
+}
+
+QStatusBar QFrame,
+QStatusBar QFrame > QWidget {
+  border-image: url("themes/minecraft.net 2014/resources/bg_top.png") 0 0 0 0 repeat repeat;
+}
+
+QToolBar[orientation="2"] {
+  border-image: url("themes/minecraft.net 2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
+}
+
+QToolBar * {
+  background: transparent;
+  border-image: none;
+}
+
+QAbstractItemView { color: #aaaaff; }
+QAbstractItemView::item { color: #ffffff; }
+
+QToolButton {
+  background: transparent;
+  border: none;
+  padding: 4px;
+}
+
+QToolButton:hover {
+  background-color: rgba(255, 255, 255, 40);
+  border-radius: 2px;
+}
+
+QDialog QStackedWidget,
+QDialog QScrollArea,
+QDialog QScrollArea > QWidget,
+QDialog QFrame,
+QDialog QFrame > QWidget,
+QDialog QGroupBox,
+QDialog QTabWidget::pane {
+  border-image: none;
+  background-color: #2b2b2b;
+}
+
+QDialog QListView,
+QDialog QTreeView {
+  border-image: url("themes/minecraft.net 2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
+}

@@ -1,0 +1,40 @@
+{
+  "name": "minecraft.net 2014",
+  "widgets": "Fusion",
+
+  "colors": {
+    "Window": "#2b2b2b",
+    "WindowText": "#f0f0f0",
+
+    "Base": "#2a2a2a",
+    "AlternateBase": "#303030",
+
+    "Text": "#f0f0f0",
+
+    "Button": "#3a3a3a",
+    "ButtonText": "#ffffff",
+
+    "Highlight": "#c97a2b",
+    "HighlightedText": "#1b1b1b",
+
+    "Link": "#6fc0ff",
+    "BrightText": "#ff5555",
+
+    "ToolTipBase": "#1f1f1f",
+    "ToolTipText": "#f0f0f0",
+
+    "fadeAmount": 0.5,
+    "fadeColor": "#000000"
+  },
+
+  "logColors": {
+    "Launcher": "#c97a2b",
+    "Error": "#ff4b4b",
+    "Warning": "#ffd24a",
+    "Debug": "#7dff7d",
+    "FatalHighlight": "#ff4b4b",
+    "Fatal": "#1b1b1b"
+  },
+
+  "styleSheet": "themeStyle.css"
+}
