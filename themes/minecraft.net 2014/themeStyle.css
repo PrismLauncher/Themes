@@ -5,17 +5,17 @@ QTabWidget::pane,
 QListView,
 QTreeView,
 QTableView {
-  border-image: url("themes/minecraftnet2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
+  border-image: url("themes/minecraft.net 2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
 }
 
 QMenuBar,
 QStatusBar,
 QToolBar[orientation="1"] {
-  border-image: url("themes/minecraftnet2014/resources/bg_top.png") 0 0 0 0 repeat repeat;
+  border-image: url("themes/minecraft.net 2014/resources/bg_top.png") 0 0 0 0 repeat repeat;
 }
 
 QToolBar[orientation="2"] {
-  border-image: url("themes/minecraftnet2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
+  border-image: url("themes/minecraft.net 2014/resources/bg_main.png") 0 0 0 0 repeat repeat;
 }
 
 QToolBar * {
