@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "AlternateBase": "#00000000",
+    "Base": "#00000000",
+    "BrightText": "#ff0000",
+    "Button": "#CC111111",
+    "ButtonText": "#ffffff",
+    "Highlight": "#66cccccc",
+    "HighlightedText": "#000000",
+    "Link": "#2a82da",
+    "Text": "#ffffff",
+    "ToolTipBase": "#E62C2C2C",
+    "ToolTipText": "#ffffff",
+    "Window": "#00000000",
+    "WindowText": "#ffffff",
+    "fadeAmount": 0.5,
+    "fadeColor": "#444747"
+  },
+  "name": "Fluent (Mica Transparent)",
+  "widgets": "Fusion"
+}
