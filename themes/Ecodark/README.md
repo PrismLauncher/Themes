@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 Lutitious <notlutitious@gmail.com>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 Fluent-Dark
 ---
 I (Ecoson) edited this theme from the existing Fluent Dark theme rather than creating it fully from scratch.
