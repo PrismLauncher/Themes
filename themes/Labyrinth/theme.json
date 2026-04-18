@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "AlternateBase": "#eef0f2",
+        "Base": "#ffffff",
+        "BrightText": "#1bd96a",
+        "Button": "#f0f2f4",
+        "ButtonText": "#1d2024",
+        "Highlight": "#1bd96a",
+        "HighlightedText": "#ffffff",
+        "Link": "#1bd96a",
+        "Text": "#1d2024",
+        "ToolTipBase": "#1d2024",
+        "ToolTipText": "#ffffff",
+        "Window": "#f4f6f8",
+        "WindowText": "#1d2024",
+        "fadeAmount": 0.9,
+        "fadeColor": "#f4f6f8"
+    },
+    "logColors": {
+        "Launcher": "#1bd96a",
+        "Error": "#e05252",
+        "Warning": "#f59e0b",
+        "Debug": "#6b7280",
+        "FatalHighlight": "#e05252",
+        "Fatal": "#ffffff"
+    },
+    "name": "Labyrinth",
+    "widgets": "Fusion"
+}
