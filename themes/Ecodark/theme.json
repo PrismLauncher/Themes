@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "AlternateBase": "#0a0a0a",
+    "Base": "#060606",
+    "BrightText": "#ffffff",
+    "Button": "#141414",
+    "ButtonText": "#1bd96a",
+    "Highlight": "#1bd96a",
+    "HighlightedText": "#060606",
+    "Link": "#14a853",
+    "Text": "#d4d4d4",
+    "ToolTipBase": "#1a1a1a",
+    "ToolTipText": "#d4d4d4",
+    "Window": "#0f0f0f",
+    "WindowText": "#d4d4d4",
+    "fadeAmount": 0.65,
+    "fadeColor": "#000000"
+  },
+  "name": "Ecodark",
+  "widgets": "Fusion"
+}
