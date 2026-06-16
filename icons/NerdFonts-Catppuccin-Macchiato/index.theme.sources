@@ -1,0 +1,57 @@
+nf-md-* glyphs from Pictogrammers' Material Design library, licensed under Apache 2.0
+
+cat - nf-md-cat
+centralmods - nf-md-application_array
+copy - nf-md-copy
+coremods - nf-md-application_array
+datapacks - nf-md-application_braces
+export - nf-md-export
+loadermods - nf-md-application_brackets
+help - nf-md-help_circle
+instance-settings - nf-md-file_cog
+jarmods - nf-md-application_array
+log - nf-md-file_chart
+minecraft - nf-md-minecraft
+multimc - nf-md-minecraft
+new - nf-md-file_plus
+notes - nf-md-book_edit
+packages - nf-md-package
+proxy - nf-md-lan_connect
+quickmods - nf-md-application_array
+rename - nf-md-file_edit
+resourcepacks - nf-md-folder_image
+screenshots - nf-md-image
+viewfolder - nf-md-folder
+worlds - nf-md-earth_box
+
+---
+
+nf-fa-* glyphs from FontFonticons, Inc.'s 'Font Awesome Free' project, licensed under CC BY 4.0
+
+about - nf-fa-info
+accounts - nf-fa-user_group
+bug - nf-fa-bug
+checkupdate - nf-fa-cloud_download
+custom-commands - nf-fa-terminal
+delete - nf-fa-trash
+discord - nf-fa-discord
+environment-variables - nf-fa-code
+externaltools - na-fa-external_link
+java - na-fa-coffee
+language - nf-fa-language
+launch - nf-fa-play_circle
+launcher - nf-fa-play
+news - nf-fa-newspaper
+patreon - nf-fa-patreon
+reddit-alien - nf-fa-reddit_alien
+refresh - nf-fa-refresh
+server - nf-fa-server
+settings - nf-fa-cog
+shaderpacks - nf-fa-cloud_sun
+shortcut - nf-fa-link
+star - nf-fa-star
+status-bad - nf-fa-times_circle
+status-good - nf-fa-check_circle
+status-running - nf-fa-play_circle_o
+status-yellow - nf-fa-circle_exclamation
+tag - nf-fa-tag
