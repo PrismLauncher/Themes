@@ -1,0 +1,31 @@
+{
+  "name": "Ebyss Steam",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion",
+  "colors": {
+    "AlternateBase": "#1b2838",
+    "Base": "#171a21",
+    "BrightText": "#FFFFFF",
+    "Button": "#2a475e",
+    "ButtonText": "#c7d5e0",
+    "Highlight": "#66c0f4",
+    "HighlightedText": "#171a21",
+    "Link": "#66c0f4",
+    "Text": "#c7d5e0",
+    "ToolTipBase": "#1b2838",
+    "ToolTipText": "#c7d5e0",
+    "Window": "#171a21",
+    "WindowText": "#c7d5e0",
+    "fadeAmount": 0.65,
+    "fadeColor": "#171a21"
+  },
+  "logColors": {
+    "Message": "#c7d5e0",
+    "Launcher": "#66c0f4",
+    "Debug": "#8bc53f",
+    "Warning": "#e3b341",
+    "Error": "#e05a5a",
+    "Fatal": "#c33a3a",
+    "FatalHighlight": "#1b2838"
+  }
+}

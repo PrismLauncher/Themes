@@ -1,0 +1,31 @@
+{
+  "name": "Ebyss Ice Cream",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion",
+  "colors": {
+    "AlternateBase": "#F3EAD3",
+    "Base": "#FAF5E8",
+    "BrightText": "#ffffff",
+    "Button": "#EADFCA",
+    "ButtonText": "#42281D",
+    "Highlight": "#C29B6D",
+    "HighlightedText": "#ffffff",
+    "Link": "#C29B6D",
+    "Text": "#42281D",
+    "ToolTipBase": "#F3EAD3",
+    "ToolTipText": "#42281D",
+    "Window": "#FAF5E8",
+    "WindowText": "#42281D",
+    "fadeAmount": 0.65,
+    "fadeColor": "#FAF5E8"
+  },
+  "logColors": {
+    "Message": "#42281D",
+    "Launcher": "#C29B6D",
+    "Debug": "#4E8C3A",
+    "Warning": "#A67C00",
+    "Error": "#C93B3B",
+    "Fatal": "#A61C1C",
+    "FatalHighlight": "#F3EAD3"
+  }
+}

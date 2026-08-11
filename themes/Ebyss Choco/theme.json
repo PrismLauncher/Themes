@@ -1,0 +1,31 @@
+{
+  "name": "Ebyss Choco",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion",
+  "colors": {
+    "AlternateBase": "#28140B",
+    "Base": "#1A0D07",
+    "BrightText": "#FFFFFF",
+    "Button": "#572D1C",
+    "ButtonText": "#DBB070",
+    "Highlight": "#8F4428",
+    "HighlightedText": "#FFFFFF",
+    "Link": "#DBB070",
+    "Text": "#EDE6E0",
+    "ToolTipBase": "#28140B",
+    "ToolTipText": "#EDE6E0",
+    "Window": "#1A0D07",
+    "WindowText": "#EDE6E0",
+    "fadeAmount": 0.65,
+    "fadeColor": "#1A0D07"
+  },
+  "logColors": {
+    "Message": "#EDE6E0",
+    "Launcher": "#C99D5E",
+    "Debug": "#94C67B",
+    "Warning": "#F1B846",
+    "Error": "#DF6962",
+    "Fatal": "#BB3535",
+    "FatalHighlight": "#28140B"
+  }
+}

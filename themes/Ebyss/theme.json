@@ -1,0 +1,31 @@
+{
+  "name": "Ebyss",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion",
+  "colors": {
+    "AlternateBase": "#050505",
+    "Base": "#000000",
+    "BrightText": "#ffffff",
+    "Button": "#0a0a0a",
+    "ButtonText": "#1b6ad9",
+    "Highlight": "#1b6ad9",
+    "HighlightedText": "#000000",
+    "Link": "#1b6ad9",
+    "Text": "#e2e2e2",
+    "ToolTipBase": "#050505",
+    "ToolTipText": "#e2e2e2",
+    "Window": "#000000",
+    "WindowText": "#e2e2e2",
+    "fadeAmount": 0.65,
+    "fadeColor": "#000000"
+  },
+  "logColors": {
+    "Message": "#E0E0E0",
+    "Launcher": "#B295FB",
+    "Debug": "#9CD78C",
+    "Warning": "#FDDC69",
+    "Error": "#EF7C7C",
+    "Fatal": "#D94B4B",
+    "FatalHighlight": "#0E0E0F"
+  }
+}
