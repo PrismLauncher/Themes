@@ -19,6 +19,7 @@ Thanks for downloading, love you! 😊
 MIT License
 
 Copyright (c) 2026 Ecoson
+Copyright (c) 2026 Lutitious
 Copyright (c) 2026 Nursultan Akim
 Copyright (c) 2022 JoeGaming
 Copyright (c) 2022 Witali Hirsch

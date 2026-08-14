@@ -19,9 +19,7 @@ Thanks for downloading, love you! 😊
 MIT License
 
 Copyright (c) 2026 Ecoson
-Copyright (c) 2022 JoeGaming
-Copyright (c) 2022 Witali Hirsch
-Copyright (c) 2020 Microsoft Corporation
+Copyright (c) 2026 Lutitious
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
