@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1.0">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#e6cf00"/>
+      <stop offset="1" stop-color="#fde94a"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fcf9fb"/>
+      <stop offset="1" stop-color="#fcf9fb" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-opacity=".63"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1="14.660452" x2="24.030643" y1="7.0243196" y2="34.826122" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#b" id="e" cx="24" cy="22" r="22" fx="24" fy="22" gradientTransform="translate(-3.8 6.8)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#c" id="d" cx="17.3125" cy="25.53125" r="9.6875" fx="17.3125" fy="25.53125" gradientTransform="matrix(2.4 0 0 .67 -17.1 22.4)" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path fill="url(#d)" d="M47 39.5c0 3.58967-10.297448 6.5-23 6.5-12.702551 0-23-2.91033-23-6.5C1 35.91 11.297449 32 24 32c12.702552 0 23 3.909969 23 7.5z" opacity=".5"/>
+  <path fill="url(#e)" stroke="#c4a000" d="m37.310531 41.5-13.279887-6.673879-13.295543 6.645327 2.554307-14.102362L2.5511635 17.368344l14.8585385-2.042043L24.068641 2.5l6.628775 12.840488 14.853695 2.073761-10.761729 9.97779L37.310531 41.5z"/>
+  <path fill="url(#f)" d="M17.731857 15.79089 24.06374 3.5868195l6.305712 12.2079845 14.070696 1.966694-3.619753 3.360009c-16.4375-3.6875-9.455375 7.220474-27.568647 9.243214l.568051-3.180397-10.1593472-9.465636L17.731857 15.79089z" opacity=".8"/>
+  <path fill="none" stroke="#fff" d="m35.973752 39.712833-11.945419-6.003447-11.945802 5.96894 2.280237-12.669783-9.5851284-8.938294 13.2784364-1.822328 6.006716-11.5695684 5.98244 11.5773884 13.277727 1.857319-9.609256 8.921725 2.260049 12.678048z" opacity=".68999999"/>
+</svg>
