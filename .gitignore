@@ -5,3 +5,4 @@ SPDX-License-Identifier: CC0-1.0
 -
 ->
 out/
+.DS_Store
