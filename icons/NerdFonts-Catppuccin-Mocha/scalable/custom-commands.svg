@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 -75 1058 1000">
+   <path fill="#cdd6f4"
+d="M17 124q-17 -18 -17 -42t17 -41t41 -17t41 18l346 346q17 16 17 40t-17 42l-346 346q-17 16 -41 16t-41 -17t-17 -41t17 -40l305 -306zM462 718h519q25 0 41 16t16 40t-16 41t-41 17h-519q-24 0 -41 -17t-17 -41t17 -40t41 -16z" />
+</svg>
