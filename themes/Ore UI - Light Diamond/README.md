@@ -11,6 +11,11 @@ Minecraft-inspired light theme for Prism Launcher with cool diamond-blue accents
 ## Preview
 ![Ore UI - Light Diamond Preview](preview.png)
 
+## Font
+This theme is designed for the [Monocraft](https://github.com/IdreesInc/Monocraft) pixel font and sets `font-family: "Monocraft"` in its stylesheet. The font is not included here, so install it yourself before applying the theme, otherwise Prism Launcher falls back to your system monospace font.
+
+Download `Monocraft.ttf` from the [Monocraft releases](https://github.com/IdreesInc/Monocraft/releases/latest) or from the [Ore UI theme pack repository](https://github.com/ninsent/Ore-UI-theme-pack/tree/main/Ore%20UI%20-%20Font%20%28Monocraft%29), install it, then restart Prism Launcher.
+
 ## License
 ```
 MIT License
