@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "AlternateBase": "#2a273f",
+    "Base": "#232136",
+    "BrightText": "#e0def4",
+    "Button": "#56526e",
+    "ButtonText": "#e0def4",
+    "Highlight": "#c4a7e7",
+    "HighlightedText": "#232136",
+    "Link": "#9ccfd8",
+    "Text": "#e0def4",
+    "ToolTipBase": "#393552",
+    "ToolTipText": "#e0def4",
+    "Window": "#2a273f",
+    "WindowText": "#e0def4",
+    "fadeAmount": 1,
+    "fadeColor": "#6e6a86"
+  },
+  "name": "Rose Pine Moon",
+  "qssFilePath": "themeStyle.css",
+  "widgets": "Fusion"
+}

@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2026 dominicmeyer
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
+QToolTip {
+	color: #e0def4;
+	background-color: #393552;
+	border: 1px solid #c4a7e7
+}
